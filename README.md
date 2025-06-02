@@ -69,7 +69,7 @@ This project enabled the development and demonstration of several key skills val
 * **Numerical Calculations & Iterations:** Microsoft Excel
 * **Graphical Analysis & Visualisation:** Desmos
 * **Report Writing & Documentation:** Microsoft Word
-* **Research & Analysis: 
+* **Research & Analysis:**
 [Reference1],(https://machinelearningmastery.com/analytical-vs-numerical-solutions-in-machine-learning/#:~:text=In%20mathematics%2C%20some%20problems%20can.)
 [Reference2],(https://www.mytutor.co.uk/answers/2570/A-Level/Maths/How-do-I-use-numerical-methods-to-find-the-root-of-the-equation-F-x-0/)
 [Reference3],(https://onlinelibrary.wiley.com/doi/10.1155/2016/8174610)
